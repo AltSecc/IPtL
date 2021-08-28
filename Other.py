@@ -1,0 +1,1 @@
+#os.system ("cd Scripts/ && python3 PScan.py")
